@@ -1,0 +1,20 @@
+# R session & workspace files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Local Shiny cache & deployment metadata
+app_cache/
+rsconnect/
+
+# Development version archives
+Archive/
+
+# OS & temporary files
+.DS_Store
+Thumbs.db
+*~
+*.tmp
+*.bak
