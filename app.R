@@ -53,7 +53,7 @@ ui <- dashboardPage(
   skin = "black",
   
   dashboardHeader(
-    title = tags$span(icon("chart-line"), " EasyDoseMeta ", tags$small("v3.7", style = "font-size: 12px; opacity: 0.8; font-weight: normal;")),
+    title = tags$span(icon("chart-line"), " EasyDoseMeta ", tags$small("v1.0.0", style = "font-size: 12px; opacity: 0.8; font-weight: normal;")),
     titleWidth = 320,
     tags$li(
       class = "dropdown",
