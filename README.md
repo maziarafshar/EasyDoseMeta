@@ -3,6 +3,7 @@
 [![R](https://img.shields.io/badge/R-%3E%3D%204.1.0-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue?logo=RStudio&logoColor=white)](https://shiny.posit.co/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/1450916436.svg)](https://doi.org/10.5281/zenodo.24071591)
 
 **EasyDoseMeta** is a comprehensive, publication-ready R Shiny application for **One-Stage and Two-Stage Dose-Response Meta-Analysis (DRMA)** powered by the [`dosresmeta`](https://cran.r-project.org/package=dosresmeta) and [`rms`](https://cran.r-project.org/package=rms) packages.
 
