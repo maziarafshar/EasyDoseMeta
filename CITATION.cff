@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: "EasyDoseMeta: An Interactive R Shiny Application for One-Stage and Two-Stage Dose-Response Meta-Analysis"
 message: "If you use EasyDoseMeta in your research, please cite it using the metadata below."
 type: software
-version: 3.7.0
+version: 1.0.0
 date-released: "2026-04-20"
 license: MIT
 repository-code: "https://github.com/maziarafshar/EasyDoseMeta"
