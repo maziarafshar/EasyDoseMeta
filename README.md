@@ -1,4 +1,4 @@
-# EasyDoseMeta (v3.7)
+# EasyDoseMeta (v1.0.0)
 
 [![R](https://img.shields.io/badge/R-%3E%3D%204.1.0-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue?logo=RStudio&logoColor=white)](https://shiny.posit.co/)
